@@ -1,0 +1,8 @@
+Git Commands
+-------------------
+git add
+git init
+git push
+git pull
+git branch
+git commit
